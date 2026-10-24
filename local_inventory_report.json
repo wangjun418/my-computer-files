@@ -1,0 +1,1551 @@
+{
+  "generated_at": "2026-10-24 12:27:00 +0800",
+  "targets": [
+    {
+      "path": "C:\\Users\\Lenovo\\Documents",
+      "exists": true,
+      "files": 5,
+      "bytes": 13095681,
+      "file_records": [
+        {
+          "path": "C:\\Users\\Lenovo\\Documents\\Codex\\2026-08-31\\new-chat\\work\\extracted_text.txt",
+          "name": "extracted_text.txt",
+          "size": 36800,
+          "mtime": 1788169288.2635746,
+          "ext": ".txt",
+          "age_days": 53.8
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Documents\\Codex\\2026-08-31\\new-chat\\work\\extract_docx_text.py",
+          "name": "extract_docx_text.py",
+          "size": 624,
+          "mtime": 1788169279.8250399,
+          "ext": ".py",
+          "age_days": 53.8
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Documents\\Codex\\2026-08-31\\new-chat\\work\\print_selected.py",
+          "name": "print_selected.py",
+          "size": 430,
+          "mtime": 1788169340.9792104,
+          "ext": ".py",
+          "age_days": 53.8
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Documents\\kimi\\workspace\\inspiration.jpg",
+          "name": "inspiration.jpg",
+          "size": 69660,
+          "mtime": 1791513784.8106298,
+          "ext": ".jpg",
+          "age_days": 15.1
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Documents\\kimi\\workspace\\source_paper.pdf",
+          "name": "source_paper.pdf",
+          "size": 12988167,
+          "mtime": 1791513784.7810369,
+          "ext": ".pdf",
+          "age_days": 15.1
+        }
+      ],
+      "errors": [],
+      "top_dirs": [
+        {
+          "name": "kimi",
+          "files": 2,
+          "bytes": 13057827
+        },
+        {
+          "name": "Codex",
+          "files": 3,
+          "bytes": 37854
+        }
+      ],
+      "extensions": [
+        {
+          "ext": ".py",
+          "files": 2,
+          "bytes": 1054
+        },
+        {
+          "ext": ".jpg",
+          "files": 1,
+          "bytes": 69660
+        },
+        {
+          "ext": ".pdf",
+          "files": 1,
+          "bytes": 12988167
+        },
+        {
+          "ext": ".txt",
+          "files": 1,
+          "bytes": 36800
+        }
+      ],
+      "top_files": [
+        {
+          "path": "C:\\Users\\Lenovo\\Documents\\kimi\\workspace\\source_paper.pdf",
+          "name": "source_paper.pdf",
+          "size": 12988167,
+          "mtime": 1791513784.7810369,
+          "ext": ".pdf",
+          "age_days": 15.1
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Documents\\kimi\\workspace\\inspiration.jpg",
+          "name": "inspiration.jpg",
+          "size": 69660,
+          "mtime": 1791513784.8106298,
+          "ext": ".jpg",
+          "age_days": 15.1
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Documents\\Codex\\2026-08-31\\new-chat\\work\\extracted_text.txt",
+          "name": "extracted_text.txt",
+          "size": 36800,
+          "mtime": 1788169288.2635746,
+          "ext": ".txt",
+          "age_days": 53.8
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Documents\\Codex\\2026-08-31\\new-chat\\work\\extract_docx_text.py",
+          "name": "extract_docx_text.py",
+          "size": 624,
+          "mtime": 1788169279.8250399,
+          "ext": ".py",
+          "age_days": 53.8
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Documents\\Codex\\2026-08-31\\new-chat\\work\\print_selected.py",
+          "name": "print_selected.py",
+          "size": 430,
+          "mtime": 1788169340.9792104,
+          "ext": ".py",
+          "age_days": 53.8
+        }
+      ],
+      "candidates": [],
+      "duplicates": []
+    },
+    {
+      "path": "C:\\Users\\Lenovo\\Desktop",
+      "exists": true,
+      "files": 0,
+      "bytes": 0,
+      "file_records": [],
+      "errors": [],
+      "top_dirs": [],
+      "extensions": [],
+      "top_files": [],
+      "candidates": [],
+      "duplicates": []
+    },
+    {
+      "path": "C:\\Users\\Lenovo\\Downloads",
+      "exists": true,
+      "files": 4,
+      "bytes": 136223283,
+      "file_records": [
+        {
+          "path": "C:\\Users\\Lenovo\\Downloads\\Untitled.ipynb",
+          "name": "Untitled.ipynb",
+          "size": 538926,
+          "mtime": 1757057519.074205,
+          "ext": ".ipynb",
+          "age_days": 413.9
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Downloads\\.ipynb_checkpoints\\Untitled-checkpoint.ipynb",
+          "name": "Untitled-checkpoint.ipynb",
+          "size": 72,
+          "mtime": 1757053822.5112374,
+          "ext": ".ipynb",
+          "age_days": 413.9
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Downloads\\claude-code-cli\\anthropic-ai-claude-code-2.1.310.tgz",
+          "name": "anthropic-ai-claude-code-2.1.310.tgz",
+          "size": 29082,
+          "mtime": 1792815853.692588,
+          "ext": ".tgz",
+          "age_days": 0.0
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Downloads\\claude-code-cli\\anthropic-ai-claude-code-win32-x64-2.1.310.tgz",
+          "name": "anthropic-ai-claude-code-win32-x64-2.1.310.tgz",
+          "size": 135655203,
+          "mtime": 1792815860.700619,
+          "ext": ".tgz",
+          "age_days": 0.0
+        }
+      ],
+      "errors": [],
+      "top_dirs": [
+        {
+          "name": "claude-code-cli",
+          "files": 2,
+          "bytes": 135684285
+        },
+        {
+          "name": "(root)",
+          "files": 1,
+          "bytes": 538926
+        },
+        {
+          "name": ".ipynb_checkpoints",
+          "files": 1,
+          "bytes": 72
+        }
+      ],
+      "extensions": [
+        {
+          "ext": ".ipynb",
+          "files": 2,
+          "bytes": 538998
+        },
+        {
+          "ext": ".tgz",
+          "files": 2,
+          "bytes": 135684285
+        }
+      ],
+      "top_files": [
+        {
+          "path": "C:\\Users\\Lenovo\\Downloads\\claude-code-cli\\anthropic-ai-claude-code-win32-x64-2.1.310.tgz",
+          "name": "anthropic-ai-claude-code-win32-x64-2.1.310.tgz",
+          "size": 135655203,
+          "mtime": 1792815860.700619,
+          "ext": ".tgz",
+          "age_days": 0.0
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Downloads\\Untitled.ipynb",
+          "name": "Untitled.ipynb",
+          "size": 538926,
+          "mtime": 1757057519.074205,
+          "ext": ".ipynb",
+          "age_days": 413.9
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Downloads\\claude-code-cli\\anthropic-ai-claude-code-2.1.310.tgz",
+          "name": "anthropic-ai-claude-code-2.1.310.tgz",
+          "size": 29082,
+          "mtime": 1792815853.692588,
+          "ext": ".tgz",
+          "age_days": 0.0
+        },
+        {
+          "path": "C:\\Users\\Lenovo\\Downloads\\.ipynb_checkpoints\\Untitled-checkpoint.ipynb",
+          "name": "Untitled-checkpoint.ipynb",
+          "size": 72,
+          "mtime": 1757053822.5112374,
+          "ext": ".ipynb",
+          "age_days": 413.9
+        }
+      ],
+      "candidates": [
+        {
+          "path": "C:\\Users\\Lenovo\\Downloads\\.ipynb_checkpoints\\Untitled-checkpoint.ipynb",
+          "size": 72,
+          "age_days": 413.9,
+          "reason": "cache/temp-like directory"
+        }
+      ],
+      "duplicates": []
+    }
+  ],
+  "aggregate": {
+    "files": 9,
+    "bytes": 149318964,
+    "extensions": [
+      {
+        "ext": ".ipynb",
+        "files": 2,
+        "bytes": 538998
+      },
+      {
+        "ext": ".py",
+        "files": 2,
+        "bytes": 1054
+      },
+      {
+        "ext": ".tgz",
+        "files": 2,
+        "bytes": 135684285
+      },
+      {
+        "ext": ".jpg",
+        "files": 1,
+        "bytes": 69660
+      },
+      {
+        "ext": ".pdf",
+        "files": 1,
+        "bytes": 12988167
+      },
+      {
+        "ext": ".txt",
+        "files": 1,
+        "bytes": 36800
+      }
+    ],
+    "top_files": [
+      {
+        "path": "C:\\Users\\Lenovo\\Downloads\\claude-code-cli\\anthropic-ai-claude-code-win32-x64-2.1.310.tgz",
+        "name": "anthropic-ai-claude-code-win32-x64-2.1.310.tgz",
+        "size": 135655203,
+        "mtime": 1792815860.700619,
+        "ext": ".tgz",
+        "age_days": 0.0
+      },
+      {
+        "path": "C:\\Users\\Lenovo\\Documents\\kimi\\workspace\\source_paper.pdf",
+        "name": "source_paper.pdf",
+        "size": 12988167,
+        "mtime": 1791513784.7810369,
+        "ext": ".pdf",
+        "age_days": 15.1
+      },
+      {
+        "path": "C:\\Users\\Lenovo\\Downloads\\Untitled.ipynb",
+        "name": "Untitled.ipynb",
+        "size": 538926,
+        "mtime": 1757057519.074205,
+        "ext": ".ipynb",
+        "age_days": 413.9
+      },
+      {
+        "path": "C:\\Users\\Lenovo\\Documents\\kimi\\workspace\\inspiration.jpg",
+        "name": "inspiration.jpg",
+        "size": 69660,
+        "mtime": 1791513784.8106298,
+        "ext": ".jpg",
+        "age_days": 15.1
+      },
+      {
+        "path": "C:\\Users\\Lenovo\\Documents\\Codex\\2026-08-31\\new-chat\\work\\extracted_text.txt",
+        "name": "extracted_text.txt",
+        "size": 36800,
+        "mtime": 1788169288.2635746,
+        "ext": ".txt",
+        "age_days": 53.8
+      },
+      {
+        "path": "C:\\Users\\Lenovo\\Downloads\\claude-code-cli\\anthropic-ai-claude-code-2.1.310.tgz",
+        "name": "anthropic-ai-claude-code-2.1.310.tgz",
+        "size": 29082,
+        "mtime": 1792815853.692588,
+        "ext": ".tgz",
+        "age_days": 0.0
+      },
+      {
+        "path": "C:\\Users\\Lenovo\\Documents\\Codex\\2026-08-31\\new-chat\\work\\extract_docx_text.py",
+        "name": "extract_docx_text.py",
+        "size": 624,
+        "mtime": 1788169279.8250399,
+        "ext": ".py",
+        "age_days": 53.8
+      },
+      {
+        "path": "C:\\Users\\Lenovo\\Documents\\Codex\\2026-08-31\\new-chat\\work\\print_selected.py",
+        "name": "print_selected.py",
+        "size": 430,
+        "mtime": 1788169340.9792104,
+        "ext": ".py",
+        "age_days": 53.8
+      },
+      {
+        "path": "C:\\Users\\Lenovo\\Downloads\\.ipynb_checkpoints\\Untitled-checkpoint.ipynb",
+        "name": "Untitled-checkpoint.ipynb",
+        "size": 72,
+        "mtime": 1757053822.5112374,
+        "ext": ".ipynb",
+        "age_days": 413.9
+      }
+    ],
+    "duplicates": []
+  },
+  "c_root": [
+    {
+      "name": "$Recycle.Bin",
+      "path": "C:/$Recycle.Bin",
+      "excluded_from_recursive_scan": true,
+      "second_level": [
+        "S-1-5-18",
+        "S-1-5-21-116588299-1789807713-3781712828-1001",
+        "S-1-5-21-116588299-1789807713-3781712828-500",
+        "S-1-5-21-284080498-1770358539-2764220212-500"
+      ],
+      "second_level_count": 4
+    },
+    {
+      "name": "$WINDOWS.~BT",
+      "path": "C:/$WINDOWS.~BT",
+      "excluded_from_recursive_scan": false,
+      "second_level": [
+        "Sources"
+      ],
+      "second_level_count": 1
+    },
+    {
+      "name": "common_attachment",
+      "path": "C:/common_attachment",
+      "excluded_from_recursive_scan": false,
+      "second_level": [],
+      "second_level_count": 0
+    },
+    {
+      "name": "Documents and Settings",
+      "path": "C:/Documents and Settings",
+      "excluded_from_recursive_scan": false,
+      "second_level": [],
+      "second_level_error": "[WinError 5] 拒绝访问。: 'C:/Documents and Settings'",
+      "second_level_count": 0
+    },
+    {
+      "name": "inetpub",
+      "path": "C:/inetpub",
+      "excluded_from_recursive_scan": false,
+      "second_level": [],
+      "second_level_count": 0
+    },
+    {
+      "name": "KRECYCLE",
+      "path": "C:/KRECYCLE",
+      "excluded_from_recursive_scan": false,
+      "second_level": [],
+      "second_level_count": 0
+    },
+    {
+      "name": "OneDriveTemp",
+      "path": "C:/OneDriveTemp",
+      "excluded_from_recursive_scan": false,
+      "second_level": [
+        "S-1-5-21-116588299-1789807713-3781712828-1001"
+      ],
+      "second_level_count": 1
+    },
+    {
+      "name": "PdfConvert",
+      "path": "C:/PdfConvert",
+      "excluded_from_recursive_scan": false,
+      "second_level": [],
+      "second_level_count": 0
+    },
+    {
+      "name": "PerfLogs",
+      "path": "C:/PerfLogs",
+      "excluded_from_recursive_scan": true,
+      "second_level": [],
+      "second_level_error": "[WinError 5] 拒绝访问。: 'C:/PerfLogs'",
+      "second_level_count": 0
+    },
+    {
+      "name": "Program Files",
+      "path": "C:/Program Files",
+      "excluded_from_recursive_scan": true,
+      "second_level": [
+        "AMD",
+        "Common Files",
+        "Internet Explorer",
+        "Lenovo",
+        "Microsoft",
+        "Microsoft Office",
+        "Microsoft Office 15",
+        "Microsoft OfficePLUS",
+        "Microsoft OneDrive",
+        "Microsoft Update Health Tools",
+        "ModifiableWindowsApps",
+        "Nutstore",
+        "Tencent",
+        "Tesseract-OCR",
+        "Uninstall Information",
+        "Windows Defender",
+        "Windows Mail",
+        "Windows Media Player",
+        "Windows NT",
+        "Windows Photo Viewer",
+        "Windows Sidebar",
+        "WindowsApps",
+        "WindowsPowerShell",
+        "Zotero"
+      ],
+      "second_level_count": 24
+    },
+    {
+      "name": "Program Files (x86)",
+      "path": "C:/Program Files (x86)",
+      "excluded_from_recursive_scan": true,
+      "second_level": [
+        "Adobe",
+        "Common Files",
+        "Google",
+        "Internet Explorer",
+        "Kingsoft",
+        "Lenovo",
+        "MGTVPCC",
+        "Microsoft",
+        "Microsoft Office",
+        "Microsoft.NET",
+        "Mozilla Maintenance Service",
+        "QQMailPlugin",
+        "Tencent",
+        "Uninstall Information",
+        "Windows Defender",
+        "Windows Mail",
+        "Windows Media Player",
+        "Windows NT",
+        "Windows Photo Viewer",
+        "Windows Sidebar",
+        "WindowsPowerShell"
+      ],
+      "second_level_count": 21
+    },
+    {
+      "name": "ProgramData",
+      "path": "C:/ProgramData",
+      "excluded_from_recursive_scan": true,
+      "second_level": [
+        "Adobe",
+        "Alibaba",
+        "AMD",
+        "Application Data",
+        "AxMath",
+        "boost_interprocess",
+        "CrossDevice",
+        "Documents",
+        "Dolby",
+        "fastpdf",
+        "Foxit Software",
+        "IBM",
+        "kdesk",
+        "kingsoft",
+        "Lenovo",
+        "Local",
+        "lx-ad-sdk",
+        "Microsoft",
+        "Microsoft Office",
+        "Microsoft OfficePLUS",
+        "Microsoft OneDrive",
+        "mwboost_interprocess",
+        "Nutstore",
+        "Oray",
+        "OrayClient",
+        "Package Cache",
+        "Packages",
+        "Propagation",
+        "regid.1991-06.com.microsoft",
+        "SafeNet Sentinel",
+        "SoftwareDistribution",
+        "SPSS",
+        "ssh",
+        "Templates",
+        "Tencent",
+        "tianxiang",
+        "USOPrivate",
+        "USOShared",
+        "Whesvc",
+        "Windows Master Store",
+        "WindowsHolographicDevices",
+        "winzips",
+        "winzipse",
+        "xfolder",
+        "Zotero",
+        "「开始」菜单",
+        "桌面"
+      ],
+      "second_level_count": 47
+    },
+    {
+      "name": "Recovery",
+      "path": "C:/Recovery",
+      "excluded_from_recursive_scan": true,
+      "second_level": [],
+      "second_level_error": "[WinError 5] 拒绝访问。: 'C:/Recovery'",
+      "second_level_count": 0
+    },
+    {
+      "name": "System Volume Information",
+      "path": "C:/System Volume Information",
+      "excluded_from_recursive_scan": true,
+      "second_level": [],
+      "second_level_error": "[WinError 5] 拒绝访问。: 'C:/System Volume Information'",
+      "second_level_count": 0
+    },
+    {
+      "name": "texlive",
+      "path": "C:/texlive",
+      "excluded_from_recursive_scan": false,
+      "second_level": [
+        "2025",
+        "texmf-local"
+      ],
+      "second_level_count": 2
+    },
+    {
+      "name": "Users",
+      "path": "C:/Users",
+      "excluded_from_recursive_scan": false,
+      "second_level": [
+        "Default",
+        "Default User",
+        "Lenovo",
+        "Public"
+      ],
+      "second_level_count": 4
+    },
+    {
+      "name": "Windows",
+      "path": "C:/Windows",
+      "excluded_from_recursive_scan": true,
+      "second_level": [
+        "appcompat",
+        "apppatch",
+        "AppReadiness",
+        "assembly",
+        "bcastdvr",
+        "Boot",
+        "Branding",
+        "BrowserCore",
+        "CbsTemp",
+        "Cursors",
+        "debug",
+        "diagnostics",
+        "DiagTrack",
+        "DigitalLocker",
+        "Downloaded Program Files",
+        "ELAMBKUP",
+        "en-US",
+        "favlinks",
+        "Firmware",
+        "Fonts",
+        "GameBarPresenceWriter",
+        "Globalization",
+        "Help",
+        "IdentityCRL",
+        "IME",
+        "ImmersiveControlPanel",
+        "InboxApps",
+        "INF",
+        "InputMethod",
+        "Installer",
+        "L2Schemas",
+        "LanguageOverlayCache",
+        "Lenovo",
+        "LiveKernelReports",
+        "Logs",
+        "Media",
+        "Microsoft",
+        "Microsoft.NET",
+        "Migration",
+        "Minidump",
+        "ModemLogs",
+        "OCR",
+        "Offline Web Pages",
+        "Panther",
+        "Performance",
+        "PLA",
+        "PolicyDefinitions",
+        "Prefetch",
+        "Provisioning",
+        "Registration",
+        "rescache",
+        "Resources",
+        "SchCache",
+        "schemas",
+        "SecureBoot",
+        "security",
+        "ServiceProfiles",
+        "ServiceState",
+        "servicing",
+        "Setup",
+        "ShellComponents",
+        "ShellExperiences",
+        "SKB",
+        "SoftwareDistribution",
+        "Speech",
+        "Speech_OneCore",
+        "System",
+        "System32",
+        "SystemApps",
+        "SystemResources",
+        "SystemTemp",
+        "SysWOW64",
+        "TAPI",
+        "Tasks",
+        "Temp",
+        "TempInst",
+        "tracing",
+        "twain_32",
+        "UUS",
+        "Vss",
+        "WaaS",
+        "Web",
+        "WinSxS",
+        "WUModels",
+        "zh-CN"
+      ],
+      "second_level_count": 85
+    }
+  ],
+  "profile_top_level": [
+    {
+      "name": ".anaconda",
+      "path": "C:\\Users\\Lenovo\\.anaconda",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".android",
+      "path": "C:\\Users\\Lenovo\\.android",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".cache",
+      "path": "C:\\Users\\Lenovo\\.cache",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".cc-switch",
+      "path": "C:\\Users\\Lenovo\\.cc-switch",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".claude",
+      "path": "C:\\Users\\Lenovo\\.claude",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".claude.json",
+      "path": "C:\\Users\\Lenovo\\.claude.json",
+      "is_dir": false,
+      "bytes": 6640
+    },
+    {
+      "name": ".codex",
+      "path": "C:\\Users\\Lenovo\\.codex",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".conda",
+      "path": "C:\\Users\\Lenovo\\.conda",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".config",
+      "path": "C:\\Users\\Lenovo\\.config",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".copilot",
+      "path": "C:\\Users\\Lenovo\\.copilot",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".idlerc",
+      "path": "C:\\Users\\Lenovo\\.idlerc",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".ipynb_checkpoints",
+      "path": "C:\\Users\\Lenovo\\.ipynb_checkpoints",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".ipython",
+      "path": "C:\\Users\\Lenovo\\.ipython",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".jupyter",
+      "path": "C:\\Users\\Lenovo\\.jupyter",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".kimi-webbridge",
+      "path": "C:\\Users\\Lenovo\\.kimi-webbridge",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".kimi-work",
+      "path": "C:\\Users\\Lenovo\\.kimi-work",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".lark-cli",
+      "path": "C:\\Users\\Lenovo\\.lark-cli",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".Ld9VirtualBox",
+      "path": "C:\\Users\\Lenovo\\.Ld9VirtualBox",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".matplotlib",
+      "path": "C:\\Users\\Lenovo\\.matplotlib",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".nodemid",
+      "path": "C:\\Users\\Lenovo\\.nodemid",
+      "is_dir": false,
+      "bytes": 36
+    },
+    {
+      "name": ".node_repl_history",
+      "path": "C:\\Users\\Lenovo\\.node_repl_history",
+      "is_dir": false,
+      "bytes": 0
+    },
+    {
+      "name": ".npmrc",
+      "path": "C:\\Users\\Lenovo\\.npmrc",
+      "is_dir": false,
+      "bytes": 40
+    },
+    {
+      "name": ".spss",
+      "path": "C:\\Users\\Lenovo\\.spss",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".spyder-py3",
+      "path": "C:\\Users\\Lenovo\\.spyder-py3",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".vscode",
+      "path": "C:\\Users\\Lenovo\\.vscode",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".vscode-shared",
+      "path": "C:\\Users\\Lenovo\\.vscode-shared",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".workbuddy",
+      "path": "C:\\Users\\Lenovo\\.workbuddy",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": ".workbuddy-key-fallback",
+      "path": "C:\\Users\\Lenovo\\.workbuddy-key-fallback",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "ado",
+      "path": "C:\\Users\\Lenovo\\ado",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "AppData",
+      "path": "C:\\Users\\Lenovo\\AppData",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Application Data",
+      "path": "C:\\Users\\Lenovo\\Application Data",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "audit_gaps.py",
+      "path": "C:\\Users\\Lenovo\\audit_gaps.py",
+      "is_dir": false,
+      "bytes": 2257
+    },
+    {
+      "name": "batch09.py",
+      "path": "C:\\Users\\Lenovo\\batch09.py",
+      "is_dir": false,
+      "bytes": 823
+    },
+    {
+      "name": "batch09b.py",
+      "path": "C:\\Users\\Lenovo\\batch09b.py",
+      "is_dir": false,
+      "bytes": 853
+    },
+    {
+      "name": "batch09c.py",
+      "path": "C:\\Users\\Lenovo\\batch09c.py",
+      "is_dir": false,
+      "bytes": 6503
+    },
+    {
+      "name": "batch10.py",
+      "path": "C:\\Users\\Lenovo\\batch10.py",
+      "is_dir": false,
+      "bytes": 7120
+    },
+    {
+      "name": "batch11.py",
+      "path": "C:\\Users\\Lenovo\\batch11.py",
+      "is_dir": false,
+      "bytes": 6173
+    },
+    {
+      "name": "batch12.py",
+      "path": "C:\\Users\\Lenovo\\batch12.py",
+      "is_dir": false,
+      "bytes": 6366
+    },
+    {
+      "name": "batch13.py",
+      "path": "C:\\Users\\Lenovo\\batch13.py",
+      "is_dir": false,
+      "bytes": 6350
+    },
+    {
+      "name": "batch14.py",
+      "path": "C:\\Users\\Lenovo\\batch14.py",
+      "is_dir": false,
+      "bytes": 6304
+    },
+    {
+      "name": "batch15.py",
+      "path": "C:\\Users\\Lenovo\\batch15.py",
+      "is_dir": false,
+      "bytes": 6336
+    },
+    {
+      "name": "batch16.py",
+      "path": "C:\\Users\\Lenovo\\batch16.py",
+      "is_dir": false,
+      "bytes": 6375
+    },
+    {
+      "name": "batch17.py",
+      "path": "C:\\Users\\Lenovo\\batch17.py",
+      "is_dir": false,
+      "bytes": 6294
+    },
+    {
+      "name": "batch18.py",
+      "path": "C:\\Users\\Lenovo\\batch18.py",
+      "is_dir": false,
+      "bytes": 6354
+    },
+    {
+      "name": "batch19.py",
+      "path": "C:\\Users\\Lenovo\\batch19.py",
+      "is_dir": false,
+      "bytes": 6378
+    },
+    {
+      "name": "batch20.py",
+      "path": "C:\\Users\\Lenovo\\batch20.py",
+      "is_dir": false,
+      "bytes": 6267
+    },
+    {
+      "name": "batch21.py",
+      "path": "C:\\Users\\Lenovo\\batch21.py",
+      "is_dir": false,
+      "bytes": 6523
+    },
+    {
+      "name": "batch22.py",
+      "path": "C:\\Users\\Lenovo\\batch22.py",
+      "is_dir": false,
+      "bytes": 6509
+    },
+    {
+      "name": "batch23.py",
+      "path": "C:\\Users\\Lenovo\\batch23.py",
+      "is_dir": false,
+      "bytes": 6510
+    },
+    {
+      "name": "batch24.py",
+      "path": "C:\\Users\\Lenovo\\batch24.py",
+      "is_dir": false,
+      "bytes": 6398
+    },
+    {
+      "name": "batch25.py",
+      "path": "C:\\Users\\Lenovo\\batch25.py",
+      "is_dir": false,
+      "bytes": 6281
+    },
+    {
+      "name": "batch26.py",
+      "path": "C:\\Users\\Lenovo\\batch26.py",
+      "is_dir": false,
+      "bytes": 6368
+    },
+    {
+      "name": "batch27.py",
+      "path": "C:\\Users\\Lenovo\\batch27.py",
+      "is_dir": false,
+      "bytes": 6477
+    },
+    {
+      "name": "batch28.py",
+      "path": "C:\\Users\\Lenovo\\batch28.py",
+      "is_dir": false,
+      "bytes": 6235
+    },
+    {
+      "name": "batch29.py",
+      "path": "C:\\Users\\Lenovo\\batch29.py",
+      "is_dir": false,
+      "bytes": 6488
+    },
+    {
+      "name": "batch30.py",
+      "path": "C:\\Users\\Lenovo\\batch30.py",
+      "is_dir": false,
+      "bytes": 6328
+    },
+    {
+      "name": "batch31.py",
+      "path": "C:\\Users\\Lenovo\\batch31.py",
+      "is_dir": false,
+      "bytes": 6358
+    },
+    {
+      "name": "batch32.py",
+      "path": "C:\\Users\\Lenovo\\batch32.py",
+      "is_dir": false,
+      "bytes": 6416
+    },
+    {
+      "name": "batch33.py",
+      "path": "C:\\Users\\Lenovo\\batch33.py",
+      "is_dir": false,
+      "bytes": 6332
+    },
+    {
+      "name": "batch34.py",
+      "path": "C:\\Users\\Lenovo\\batch34.py",
+      "is_dir": false,
+      "bytes": 6461
+    },
+    {
+      "name": "batch35.py",
+      "path": "C:\\Users\\Lenovo\\batch35.py",
+      "is_dir": false,
+      "bytes": 6509
+    },
+    {
+      "name": "batch36.py",
+      "path": "C:\\Users\\Lenovo\\batch36.py",
+      "is_dir": false,
+      "bytes": 6454
+    },
+    {
+      "name": "batch37.py",
+      "path": "C:\\Users\\Lenovo\\batch37.py",
+      "is_dir": false,
+      "bytes": 6717
+    },
+    {
+      "name": "Contacts",
+      "path": "C:\\Users\\Lenovo\\Contacts",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Cookies",
+      "path": "C:\\Users\\Lenovo\\Cookies",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "CrossDevice",
+      "path": "C:\\Users\\Lenovo\\CrossDevice",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "d.txt",
+      "path": "C:\\Users\\Lenovo\\d.txt",
+      "is_dir": false,
+      "bytes": 4020
+    },
+    {
+      "name": "data32_35.txt",
+      "path": "C:\\Users\\Lenovo\\data32_35.txt",
+      "is_dir": false,
+      "bytes": 4772
+    },
+    {
+      "name": "Desktop",
+      "path": "C:\\Users\\Lenovo\\Desktop",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "documents",
+      "path": "C:\\Users\\Lenovo\\documents",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Doubao",
+      "path": "C:\\Users\\Lenovo\\Doubao",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Downloads",
+      "path": "C:\\Users\\Lenovo\\Downloads",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "dump.py",
+      "path": "C:\\Users\\Lenovo\\dump.py",
+      "is_dir": false,
+      "bytes": 581
+    },
+    {
+      "name": "dump2.py",
+      "path": "C:\\Users\\Lenovo\\dump2.py",
+      "is_dir": false,
+      "bytes": 583
+    },
+    {
+      "name": "dump_out.txt",
+      "path": "C:\\Users\\Lenovo\\dump_out.txt",
+      "is_dir": false,
+      "bytes": 4348
+    },
+    {
+      "name": "Favorites",
+      "path": "C:\\Users\\Lenovo\\Favorites",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Fig1_Sales_Distribution.png",
+      "path": "C:\\Users\\Lenovo\\Fig1_Sales_Distribution.png",
+      "is_dir": false,
+      "bytes": 92323
+    },
+    {
+      "name": "Fig2_Interaction_Effect.png",
+      "path": "C:\\Users\\Lenovo\\Fig2_Interaction_Effect.png",
+      "is_dir": false,
+      "bytes": 245438
+    },
+    {
+      "name": "Fig3_Interaction_Barplot.png",
+      "path": "C:\\Users\\Lenovo\\Fig3_Interaction_Barplot.png",
+      "is_dir": false,
+      "bytes": 179593
+    },
+    {
+      "name": "final_cleanup.py",
+      "path": "C:\\Users\\Lenovo\\final_cleanup.py",
+      "is_dir": false,
+      "bytes": 1746
+    },
+    {
+      "name": "fix_gaps.py",
+      "path": "C:\\Users\\Lenovo\\fix_gaps.py",
+      "is_dir": false,
+      "bytes": 4004
+    },
+    {
+      "name": "Interaction_Plot_High_Res.png",
+      "path": "C:\\Users\\Lenovo\\Interaction_Plot_High_Res.png",
+      "is_dir": false,
+      "bytes": 269438
+    },
+    {
+      "name": "Jedi",
+      "path": "C:\\Users\\Lenovo\\Jedi",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Links",
+      "path": "C:\\Users\\Lenovo\\Links",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Local Settings",
+      "path": "C:\\Users\\Lenovo\\Local Settings",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Mechanism_Comparison_Bar.png",
+      "path": "C:\\Users\\Lenovo\\Mechanism_Comparison_Bar.png",
+      "is_dir": false,
+      "bytes": 187939
+    },
+    {
+      "name": "Music",
+      "path": "C:\\Users\\Lenovo\\Music",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "My Documents",
+      "path": "C:\\Users\\Lenovo\\My Documents",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "NetHood",
+      "path": "C:\\Users\\Lenovo\\NetHood",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "NTUSER.DAT",
+      "path": "C:\\Users\\Lenovo\\NTUSER.DAT",
+      "is_dir": false,
+      "bytes": 23330816
+    },
+    {
+      "name": "ntuser.dat.LOG1",
+      "path": "C:\\Users\\Lenovo\\ntuser.dat.LOG1",
+      "is_dir": false,
+      "bytes": 1441792
+    },
+    {
+      "name": "ntuser.dat.LOG2",
+      "path": "C:\\Users\\Lenovo\\ntuser.dat.LOG2",
+      "is_dir": false,
+      "bytes": 6336512
+    },
+    {
+      "name": "NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.0.regtrans-ms",
+      "path": "C:\\Users\\Lenovo\\NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.0.regtrans-ms",
+      "is_dir": false,
+      "bytes": 1048576
+    },
+    {
+      "name": "NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.1.regtrans-ms",
+      "path": "C:\\Users\\Lenovo\\NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.1.regtrans-ms",
+      "is_dir": false,
+      "bytes": 1048576
+    },
+    {
+      "name": "NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.2.regtrans-ms",
+      "path": "C:\\Users\\Lenovo\\NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.2.regtrans-ms",
+      "is_dir": false,
+      "bytes": 1048576
+    },
+    {
+      "name": "NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.blf",
+      "path": "C:\\Users\\Lenovo\\NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.blf",
+      "is_dir": false,
+      "bytes": 65536
+    },
+    {
+      "name": "NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf",
+      "path": "C:\\Users\\Lenovo\\NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf",
+      "is_dir": false,
+      "bytes": 65536
+    },
+    {
+      "name": "NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms",
+      "path": "C:\\Users\\Lenovo\\NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms",
+      "is_dir": false,
+      "bytes": 524288
+    },
+    {
+      "name": "NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms",
+      "path": "C:\\Users\\Lenovo\\NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms",
+      "is_dir": false,
+      "bytes": 524288
+    },
+    {
+      "name": "ntuser.ini",
+      "path": "C:\\Users\\Lenovo\\ntuser.ini",
+      "is_dir": false,
+      "bytes": 20
+    },
+    {
+      "name": "Nutstore",
+      "path": "C:\\Users\\Lenovo\\Nutstore",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "OneDrive",
+      "path": "C:\\Users\\Lenovo\\OneDrive",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "out.txt",
+      "path": "C:\\Users\\Lenovo\\out.txt",
+      "is_dir": false,
+      "bytes": 4351
+    },
+    {
+      "name": "out2.txt",
+      "path": "C:\\Users\\Lenovo\\out2.txt",
+      "is_dir": false,
+      "bytes": 5323
+    },
+    {
+      "name": "out3.txt",
+      "path": "C:\\Users\\Lenovo\\out3.txt",
+      "is_dir": false,
+      "bytes": 8495
+    },
+    {
+      "name": "out4.txt",
+      "path": "C:\\Users\\Lenovo\\out4.txt",
+      "is_dir": false,
+      "bytes": 10745
+    },
+    {
+      "name": "out5.txt",
+      "path": "C:\\Users\\Lenovo\\out5.txt",
+      "is_dir": false,
+      "bytes": 9828
+    },
+    {
+      "name": "out6.txt",
+      "path": "C:\\Users\\Lenovo\\out6.txt",
+      "is_dir": false,
+      "bytes": 9783
+    },
+    {
+      "name": "out7.txt",
+      "path": "C:\\Users\\Lenovo\\out7.txt",
+      "is_dir": false,
+      "bytes": 11175
+    },
+    {
+      "name": "out8.txt",
+      "path": "C:\\Users\\Lenovo\\out8.txt",
+      "is_dir": false,
+      "bytes": 16
+    },
+    {
+      "name": "p.py",
+      "path": "C:\\Users\\Lenovo\\p.py",
+      "is_dir": false,
+      "bytes": 482
+    },
+    {
+      "name": "package-lock.json",
+      "path": "C:\\Users\\Lenovo\\package-lock.json",
+      "is_dir": false,
+      "bytes": 85
+    },
+    {
+      "name": "Pictures",
+      "path": "C:\\Users\\Lenovo\\Pictures",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "PrintHood",
+      "path": "C:\\Users\\Lenovo\\PrintHood",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Qianwen",
+      "path": "C:\\Users\\Lenovo\\Qianwen",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Recent",
+      "path": "C:\\Users\\Lenovo\\Recent",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Relative_Importance_Pie.png",
+      "path": "C:\\Users\\Lenovo\\Relative_Importance_Pie.png",
+      "is_dir": false,
+      "bytes": 157359
+    },
+    {
+      "name": "Relative_Importance_PieChart.png",
+      "path": "C:\\Users\\Lenovo\\Relative_Importance_PieChart.png",
+      "is_dir": false,
+      "bytes": 140623
+    },
+    {
+      "name": "s.txt",
+      "path": "C:\\Users\\Lenovo\\s.txt",
+      "is_dir": false,
+      "bytes": 5094
+    },
+    {
+      "name": "s32_35.py",
+      "path": "C:\\Users\\Lenovo\\s32_35.py",
+      "is_dir": false,
+      "bytes": 722
+    },
+    {
+      "name": "Sales_Histogram_Zero_Inflated.png",
+      "path": "C:\\Users\\Lenovo\\Sales_Histogram_Zero_Inflated.png",
+      "is_dir": false,
+      "bytes": 111108
+    },
+    {
+      "name": "Saved Games",
+      "path": "C:\\Users\\Lenovo\\Saved Games",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Searches",
+      "path": "C:\\Users\\Lenovo\\Searches",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "SendTo",
+      "path": "C:\\Users\\Lenovo\\SendTo",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "show.py",
+      "path": "C:\\Users\\Lenovo\\show.py",
+      "is_dir": false,
+      "bytes": 501
+    },
+    {
+      "name": "stacked_bar_chart_high_res.png",
+      "path": "C:\\Users\\Lenovo\\stacked_bar_chart_high_res.png",
+      "is_dir": false,
+      "bytes": 107351
+    },
+    {
+      "name": "Templates",
+      "path": "C:\\Users\\Lenovo\\Templates",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "Untitled.ipynb",
+      "path": "C:\\Users\\Lenovo\\Untitled.ipynb",
+      "is_dir": false,
+      "bytes": 2235826
+    },
+    {
+      "name": "Untitled1.ipynb",
+      "path": "C:\\Users\\Lenovo\\Untitled1.ipynb",
+      "is_dir": false,
+      "bytes": 110134
+    },
+    {
+      "name": "Untitled3.ipynb",
+      "path": "C:\\Users\\Lenovo\\Untitled3.ipynb",
+      "is_dir": false,
+      "bytes": 20519
+    },
+    {
+      "name": "updateddd_stacked_bar.png",
+      "path": "C:\\Users\\Lenovo\\updateddd_stacked_bar.png",
+      "is_dir": false,
+      "bytes": 126468
+    },
+    {
+      "name": "Videos",
+      "path": "C:\\Users\\Lenovo\\Videos",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "WorkBuddy",
+      "path": "C:\\Users\\Lenovo\\WorkBuddy",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "WPS Cloud",
+      "path": "C:\\Users\\Lenovo\\WPS Cloud",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "WPS Cloud Files",
+      "path": "C:\\Users\\Lenovo\\WPS Cloud Files",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "WPSDrive",
+      "path": "C:\\Users\\Lenovo\\WPSDrive",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "WTP_Forest_Plot.png",
+      "path": "C:\\Users\\Lenovo\\WTP_Forest_Plot.png",
+      "is_dir": false,
+      "bytes": 133919
+    },
+    {
+      "name": "wtp_forest_plot_high_res.png",
+      "path": "C:\\Users\\Lenovo\\wtp_forest_plot_high_res.png",
+      "is_dir": false,
+      "bytes": 111198
+    },
+    {
+      "name": "Zotero",
+      "path": "C:\\Users\\Lenovo\\Zotero",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "「开始」菜单",
+      "path": "C:\\Users\\Lenovo\\「开始」菜单",
+      "is_dir": true,
+      "bytes": null
+    },
+    {
+      "name": "我的图片",
+      "path": "C:\\Users\\Lenovo\\我的图片",
+      "is_dir": true,
+      "bytes": null
+    }
+  ],
+  "volume": {},
+  "exclusions": [
+    "$Recycle.Bin",
+    "PerfLogs",
+    "Program Files",
+    "Program Files (x86)",
+    "ProgramData",
+    "Recovery",
+    "System Volume Information",
+    "Windows"
+  ]
+}
